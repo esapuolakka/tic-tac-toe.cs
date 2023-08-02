@@ -1,0 +1,15 @@
+/Users/esapuolakka/Projects/GitProjects/ttt.net/bin/Debug/net7.0/ttt.net
+/Users/esapuolakka/Projects/GitProjects/ttt.net/bin/Debug/net7.0/ttt.net.deps.json
+/Users/esapuolakka/Projects/GitProjects/ttt.net/bin/Debug/net7.0/ttt.net.runtimeconfig.json
+/Users/esapuolakka/Projects/GitProjects/ttt.net/bin/Debug/net7.0/ttt.net.dll
+/Users/esapuolakka/Projects/GitProjects/ttt.net/bin/Debug/net7.0/ttt.net.pdb
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.csproj.AssemblyReference.cache
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.AssemblyInfoInputs.cache
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.AssemblyInfo.cs
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.csproj.CoreCompileInputs.cache
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.dll
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/refint/ttt.net.dll
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.pdb
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ttt.net.genruntimeconfig.cache
+/Users/esapuolakka/Projects/GitProjects/ttt.net/obj/Debug/net7.0/ref/ttt.net.dll
